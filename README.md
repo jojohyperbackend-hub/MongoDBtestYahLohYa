@@ -68,6 +68,9 @@ Kalau project ini ada di GitHub/GitLab dan kamu mau download ke komputer kamu:
    MONGO_URI=mongodb://username:password@localhost:27017/?authSource=admin
    MONGO_DB_NAME=testmongoahhhmantap
    ```
+
+   awas ke leak ya
+   
 4. Nyalain robotnya:
    ```bash
    npm run dev
